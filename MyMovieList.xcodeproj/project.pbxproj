@@ -51,9 +51,9 @@
 		061100FA236035E0006AC145 /* Services */ = {
 			isa = PBXGroup;
 			children = (
-				0659B53F2366BF830008D7C2 /* Errors */,
 				0659B53A2366B9660008D7C2 /* MovieDBService.swift */,
 				0659B53D2366BAE40008D7C2 /* MovieDBRouter.swift */,
+				0659B53F2366BF830008D7C2 /* Errors */,
 			);
 			path = Services;
 			sourceTree = "<group>";
